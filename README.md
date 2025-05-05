@@ -1,16 +1,15 @@
-# toku_app
+# Toku App
 
-A new Flutter project.
+### A small and simple app to only practice on different types of assets
 
-## Getting Started
+🎯 A Flutter application developed to explore and demonstrate handling multiple types of assets — with a special focus on integrating audio playback, along with displaying local images and text content across multiple pages.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+#### 🖼️ Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+  <img src="assets/Toku_App_Screenshots/Screenshot_1.jpg" width="220"/>
+  <img src="assets/Toku_App_Screenshots/Screenshot_2.jpg" width="220"/>
+  <img src="assets/Toku_App_Screenshots/Screenshot_3.jpg" width="220"/>
+  <img src="assets/Toku_App_Screenshots/Screenshot_4.jpg" width="220"/>
+</p>
