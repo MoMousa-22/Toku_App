@@ -12,8 +12,8 @@ along with displaying local images and text content across multiple pages.
 #### 🖼️ Screenshots
 
 <p float="left">
-  <img src="assets/Toku_App_Screenshots/Screenshot_1.jpg" width="180"/>
-  <img src="assets/Toku_App_Screenshots/Screenshot_2.jpg" width="180"/>
-  <img src="assets/Toku_App_Screenshots/Screenshot_3.jpg" width="180"/>
-  <img src="assets/Toku_App_Screenshots/Screenshot_4.jpg" width="180"/>
+  <img src="Toku_App_Screenshots/Screenshot_1.jpg" width="180"/>
+  <img src="Toku_App_Screenshots/Screenshot_2.jpg" width="180"/>
+  <img src="Toku_App_Screenshots/Screenshot_3.jpg" width="180"/>
+  <img src="Toku_App_Screenshots/Screenshot_4.jpg" width="180"/>
 </p>
